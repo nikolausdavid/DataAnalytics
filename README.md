@@ -1,5 +1,8 @@
 # Stock Trend Compass
 
+Stock Trending Overview of a given stock range 
+
+
 Graphical and numerical overview for analysing past stock data from a chosen stock range (e.g. S&P500)
 The y-Axis 
 
